@@ -1,2 +1,2 @@
 # productpoke
-productpoke.com desktop app release repo
+see [productpoke.com](productpoke.com)

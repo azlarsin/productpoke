@@ -1,2 +1,2 @@
 # productpoke
-see [productpoke.com](productpoke.com)
+see [productpoke.com](http://productpoke.com)
